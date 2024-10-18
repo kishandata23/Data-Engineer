@@ -11,6 +11,8 @@ Please let me know if you find information here is wrong or any improvements tha
 Reach out to me via Social media like Linkedin.
 
 ----------------------------------------------------
+## Check my [Projects](./Projects/readme.md)
+ 
 
 I'm currently working on this repository, so the information here is not up to date.
 

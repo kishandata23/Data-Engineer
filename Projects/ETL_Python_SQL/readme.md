@@ -4,15 +4,10 @@
 - Insert data from files to database -->
 
 <!-- ---------------------- -->
-
-- E :- Extract
-- L :- Load
-- T :- Transform
  
 ### ETL, ELT, EL
 
-------------------------
-# Projects
+## Check my all projects of Data Engineer at  [Projects](../../Projects/readme.md)
 
 Count : 2
 
@@ -20,7 +15,8 @@ Count : 2
 | :----------- |   :-------------------------: | :----------|
 |[CSV to DB](./CSV_to_DB/fetch_data_to_DB.ipynb)  |L|<ul><li>Load local CSV file to Postgre SQL DB </li></ul>|
 |[PostgreSQL to SQL Server data migration](./SQL_Server_to_PostgreSQL/)  |EL|<ul><li>Python code to extract data from Postgre SQL and then load to SQL Server </li></ul>|
-|
+||ETL|
+||ELT|
  
 
 
